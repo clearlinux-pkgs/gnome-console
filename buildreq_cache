@@ -2,7 +2,6 @@
 appstream-glib
 nautilus-dev
 pcre2-dev
-pkgconfig(desktop-file-utils)
 pkgconfig(libgtop-2.0)
 pkgconfig(libhandy-1)
 pkgconfig(libnautilus-extension)
