@@ -4,7 +4,7 @@
 #
 Name     : gnome-console
 Version  : 42.2
-Release  : 4
+Release  : 5
 URL      : https://download.gnome.org/sources/gnome-console/42/gnome-console-42.2.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-console/42/gnome-console-42.2.tar.xz
 Summary  : No detailed summary available
