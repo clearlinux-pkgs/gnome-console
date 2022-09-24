@@ -1,10 +1,5 @@
-42.2
+43.rc
 appstream-glib
-nautilus-dev
+pkgconfig(libadwaita-1)
 pkgconfig(libgtop-2.0)
-pkgconfig(libhandy-1)
-pkgconfig(libnautilus-extension)
-pkgconfig(libpcre2-8)
-pkgconfig(vte-2.91)
-sassc
-vte-dev
+pkgconfig(vte-2.91-gtk4)
