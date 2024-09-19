@@ -1,3 +1,101 @@
+Version 47.1
+~~~~~~~~~~~~
+
+Some minor build issues on certain platforms have been ironed out
+
+Version 47.0
+~~~~~~~~~~~~
+
+A edge case in drag-and-drop has been resolved, and Aleksandr Melman fixed a
+string that hadn't been marked for translation.
+
+Updated Translations
+ * Belarusian  (Vasil Pupkin)
+ * British English  (Andi Chandler)
+ * Bulgarian  (Alexander Shopov)
+ * Catalan  (Jordi Mas i Hernandez)
+ * Chinese (China)  (Luming Zh)
+ * Czech  (Daniel Rusek)
+ * Danish  (Ask Hjorth Larsen)
+ * Galician  (Fran Dieguez)
+ * Georgian  (Ekaterine Papava)
+ * Greek  (Efstathios Iosifidis)
+ * Hebrew  (Yaron Shahrabani)
+ * Hungarian  (Balázs Úr)
+ * Indonesian  (Andika Triwidada)
+ * Lithuanian  (Aurimas Černius)
+ * Norwegian Bokmål  (Brage Fuglseth)
+ * Persian  (Danial Behzadi)
+ * Polish  (Piotr Drąg)
+ * Portuguese  (Hugo Carvalho)
+ * Russian  (Artur S0)
+ * Slovak  (Jose Riha)
+ * Slovenian  (Martin)
+ * Spanish  (Daniel Mustieles)
+ * Swedish  (Anders Jonsson)
+ * Ukrainian  (Yuri Chornoivan)
+
+Version 47.rc
+~~~~~~~~~~~~~~~
+
+Thanks to feedback from beta users, a couple small improvements were made.
+
+Updated Translations
+ * Basque  (Asier Sarasua Garmendia)
+ * Belarusian  (Vasil Pupkin)
+ * Brazilian Portuguese  (Juliano de Souza Camargo)
+ * Bulgarian  (Alexander Shopov)
+ * Catalan  (poc senderi)
+ * Chinese (China)  (Luming Zh)
+ * Czech  (Daniel Rusek)
+ * Finnish  (Jiri Grönroos)
+ * Georgian  (Ekaterine Papava)
+ * German  (Jürgen Benvenuti)
+ * Hindi  (Scrambled 777)
+ * Hungarian  (Balázs Úr)
+ * Kazakh  (Baurzhan Muftakhidinov)
+ * Korean  (DaeHyun Sung)
+ * Norwegian Bokmål  (Brage Fuglseth)
+ * Occitan  (Quentin PAGÈS)
+ * Persian  (Danial Behzadi)
+ * Portuguese  (Hugo Carvalho)
+ * Romanian  (Daniel Șerbănescu, Florentina Mușat)
+ * Russian  (Artur S0)
+ * Turkish  (Emin Tufan Çetin, Sabri Ünal)
+ * Ukrainian  (Yuri Chornoivan)
+
+
+Version 47.beta
+~~~~~~~~~~~~~~~
+
+The preferences dialogue has been expanded to include scrollback size, and
+there has been behind the scenes work fixing some pesky issues and setting
+up future improvements.
+
+Thanks to work elsewhere in the stack, we now have restored screen reader
+support. This has taken far too long, and there is more work do be done, but
+hopefully this is a significant step forward.
+
+Additionally Alice reworked our styles to take advantage of improvements in
+Gtk, whilst Chris helped us keep current with developments in Adwaita, and
+Balló György provided some fixes.
+
+Updated Translations
+ * Brazilian Portuguese  (Juliano de Souza Camargo)
+ * Greek  (Efstathios Iosifidis)
+ * Hebrew  (Yosef Or Boczko)
+ * Hindi  (Guntupalli Karunakar, Scrambled 777)
+ * Kabyle  (Rachida SACI)
+ * Nepali  (Pawan Chitrakar)
+ * Occitan  (Quentin PAGÈS)
+ * Portuguese  (Hugo Carvalho)
+ * Romanian  (Daniel Șerbănescu)
+ * Serbian  (Dušan Simić)
+ * Serbian (Latin)  (Милош Поповић)
+ * Slovak  (Matej Mrenica)
+ * Slovenian  (Martin)
+ * Turkish  (Sabri Ünal)
+
 Version 46.0
 ~~~~~~~~~~~~
 
