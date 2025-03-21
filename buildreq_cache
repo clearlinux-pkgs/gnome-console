@@ -1,5 +1,4 @@
-47.1
-appstream-glib
+48.0.1
 pkgconfig(libadwaita-1)
 pkgconfig(libgtop-2.0)
 pkgconfig(vte-2.91-gtk4)
